@@ -1,0 +1,33 @@
+{
+    "name": "Bypasser bot",
+    "keywords": [
+      "telegram",
+      "shortener"
+    ],
+    "env": {
+      "TOKEN": {
+        "description": "Your bot token from @botfather",
+        "value": ""
+      },
+      "ID": {
+        "description": "Get this value from https://my.telegram.org",
+        "value": ""
+      },
+      "HASH": {
+        "description": "Get this value from https://my.telegram.org",
+        "value": ""}
+    },
+    "addons": [],
+    "buildpacks": [
+      {
+        "url": "heroku/python"
+      }
+    ],
+    "formation": {
+      "worker": {
+        "quantity": 1,
+        "size": "free"
+      }
+    }
+  }
+  
