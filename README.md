@@ -56,3 +56,4 @@ ig - IGG Games
 tl - try2link
 ```
 
+https://www.heroku.com/deploy?template=https://github.com/Bhatmanjusms/Link-Bypasser-Bot-1
