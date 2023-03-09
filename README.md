@@ -56,4 +56,4 @@ ig - IGG Games
 tl - try2link
 ```
 - Select one of the methods
-     - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bhatmanjusms/Link-Bypasser-Bot-1) 
+     - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAMSTARWORLD/Link-bypassbot) 
