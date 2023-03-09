@@ -55,5 +55,5 @@ ol - OlaMovies
 ig - IGG Games
 tl - try2link
 ```
-
-[!Develop Button](https://www.heroku.com/deploy?template="https://github.com/Bhatmanjusms/Link-Bypasser-Bot-1") 
+- Select one of the methods
+     - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bhatmanjusms/Link-Bypasser-Bot-1) 
