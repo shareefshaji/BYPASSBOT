@@ -262,11 +262,7 @@ def docfile(client: pyrogram.client.Client, message: pyrogram.types.messages_and
 # start command
 @app.on_message(filters.command(["start"]))
 def send_start(client: pyrogram.client.Client, message: pyrogram.types.messages_and_media.message.Message):
-    app.send_message(message.chat.id, f"__👋 Hi **{message.from_user.mention}**,
-
- i am Link Bypasser Bot, just send me any supported links with proper format and i will you give you results. use /help to veiw supported sites list.__,
-
-BOT DEVELOPER :[Click Here](https://t.me/BotsExpert)",
+    app.send_message(message.chat.id, f"__👋 Hi **{message.from_user.mention}**,i am Link Bypasser Bot, just send me any supported links with proper format and i will you give you results. use /help to veiw supported sites list.__,
     reply_markup=InlineKeyboardMarkup([[ InlineKeyboardButton("🌐 Source Code", url="https://t.me/BotsExpert")]]), reply_to_message_id=message.id)
 
 
