@@ -7,15 +7,15 @@
     "env": {
       "TOKEN": {
         "description": "Your bot token from @botfather",
-        "value": ""
+        "value": "5795584478:AAEOOrbbVnxkzJ4h2H97UL_QUI3L-EAq3PQ"
       },
       "ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": ""
+        "value": "12369677"
       },
       "HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": ""}
+        "value": "e7b43b8112de50babed6baa42b88d87d"}
     },
     "addons": [],
     "buildpacks": [
